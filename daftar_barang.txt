@@ -1,0 +1,5 @@
+Daftar Barang Rental Event Organizer
+=====================================
+
+1. Nama: speaker, Kategori: alat musik, Harga Sewa: Rp2000, Status: Tersedia
+2. Nama: radio, Kategori: alat musik, Harga Sewa: Rp20000, Status: Tersedia
